@@ -35,9 +35,9 @@ TEKRARDAN : INFINTY UNFOLDS'U OYNAMADAN INDIRMEYIN
 
 >LISA: The Painful Dingaling trafından yapılmıştır. https://store.steampowered.com/app/335670/LISA_The_Painful/
 
-LISA: The Pointless EdvinasKandrotas tarafından yapılmıştır. https://gamejolt.com/games/lisa-the-pointless/221705
+>LISA: The Pointless EdvinasKandrotas tarafından yapılmıştır. https://gamejolt.com/games/lisa-the-pointless/221705
 
-LISA: The Pointless SOTWS JCJimmy tarafından yapılmıştır. https://gamejolt.com/games/wilbursin/564404
+>LISA: The Pointless SOTWS JCJimmy tarafından yapılmıştır. https://gamejolt.com/games/wilbursin/564404
 
 Oyunlar orijinal yapımcılarına aittir
 
