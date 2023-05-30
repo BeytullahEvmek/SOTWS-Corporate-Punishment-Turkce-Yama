@@ -1,4 +1,6 @@
 # SOTWS-Corporate-Punishment
+
+# DIKKAT:SOTWS OYNAMADIYSANIZ GERI KALANINI OKUMAYIN
 Infinity unfolds'u bitirdin mi? daha fazlasını mı istiyorsun,işte tadımlık bir savaş
 
 NOT:Infinity Unfolds'u oynamadıysanız oynamayın Spoiler içerir
@@ -27,6 +29,12 @@ YAMAYI INDIRME
 3)uyarı verirse evete tıkla
 
 TEKRARDAN : INFINTY UNFOLDS'U OYNAMADAN INDIRMEYIN
+
+DIPNOT:Oyun açılmazsa RPGMaker Plugin'i bilgisayarınızda yüklü değil demektir.Siteden indirebilirhttps://www.rpgmakerweb.com/downloads
+
+Ya da bu linkden hemen indirebilirsiniz:https://dl.komodo.jp/rpgmakerweb/run-time-packages/RPGVXAce_RTP.zip
+
+Oyunu hızlandırmak için Cheat Engine kullanabilirsiniz. https://www.cheatengine.org/
 
 
 # Hak sahipleri
