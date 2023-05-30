@@ -36,6 +36,14 @@ Ya da bu linkden hemen indirebilirsiniz:https://dl.komodo.jp/rpgmakerweb/run-tim
 
 Oyunu hızlandırmak için Cheat Engine kullanabilirsiniz. https://www.cheatengine.org/
 
+# Nasıl tam ekran yapılır?
+başlangıç ekranında f1 e basın
+
+Graphics'e basın
+
+Start in Fullscreen yazan kutuya basılı tutun
+
+Oyunu kapatıp açın
 
 # Hak sahipleri
 
