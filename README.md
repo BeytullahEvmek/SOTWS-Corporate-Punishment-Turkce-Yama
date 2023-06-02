@@ -1,5 +1,8 @@
 # SOTWS-Corporate-Punishment
 
+![692672-crop0_378_1088_650-ll-eykneqec-v4](https://github.com/BeytullahEvmek/SOTWS-Corporate-Punishment-Turkce-Yama/assets/130393344/5aaa6067-dfcc-429d-87f9-649b192ae8f6)
+
+
 # DIKKAT:SOTWS OYNAMADIYSANIZ GERI KALANINI OKUMAYIN
 Infinity unfolds'u bitirdin mi? daha fazlasını mı istiyorsun,işte tadımlık bir savaş
 
